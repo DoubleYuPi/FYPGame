@@ -1,0 +1,14 @@
+Hello and welcome to the game prototype.
+
+To run the game, simply click and run the .exe file, [FYP.exe].
+
+Control:
+Player Move key input: Directional key or 'WASD'
+Player Attack key input: 'X'
+Player Spell key input: 'E'
+Player Interact key input: 'Space_bar'
+Pause Menu key input: 'Escape' / 'Esc'
+
+To use tool/seed, simply pick up tool and click on it. The green cursor will appear if action can be performed.
+
+Thank you for trying out this game.
